@@ -1,4 +1,4 @@
-# Calculator 🧮
+# Calculator 
 
 A clean and simple web-based calculator built with HTML, CSS, and JavaScript.
 
@@ -37,10 +37,10 @@ Then just open `index.html` in your browser — that's it.
 ## Project Structure
 
 \```
-Calculator/
-├── index.html
-├── style.css
-└── script.js
+Calculator/  
+├── index.html  
+├── style.css  
+└── script.js  
 \```
 
 ## Contributing
